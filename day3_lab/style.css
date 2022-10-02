@@ -1,0 +1,59 @@
+.container-fluid {
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+
+#start {
+    text-align: center;
+    color: white;
+    font-size: 2cm;
+}
+
+#text {
+    text-align: center;
+    color: white;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    /* font-size: 16px; */
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#btn {
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+
+}
+
+#fristp {
+    font-family: bold;
+    color: black;
+    font-size: 1cm;
+}
+
+.container {
+    background-color: antiquewhite;
+}
+
+#footer {
+    text-align: center;
+
+}
+
+.navbar {
+    background-color: blueviolet;
+}
+
+.navbar .nav-link {
+    color: white;
+}
